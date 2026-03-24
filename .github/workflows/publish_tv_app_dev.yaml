@@ -12,9 +12,9 @@ jobs:
         steps:
             #签出代码
             - uses: actions/checkout@v4
-              wwith:
+              with:
                   token: ${{ secrets.GITHUB_TOKEN }}
-                  fetch-depth: 0  # 获取所有历史记录，防止某些脚本报错
+                  fetch-depth: 0
 
             #APK签名设置
             - name: Download Android keystore
