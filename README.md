@@ -46,7 +46,7 @@ Flutter : `3.38`
 
 ## 参考及引用
 
-[AllLive](https://github.com/xiaoyaocz/AllLive) `本项目的C#版，有兴趣可以看看 `
+[AllLive](https://github.com/xiaoyaocz/AllLive) `本项目的C#版，有兴趣可以看看`
 
 [dart_tars_protocol](https://github.com/xiaoyaocz/dart_tars_protocol.git)
 
